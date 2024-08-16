@@ -2,7 +2,7 @@
 - 👀 I’m interested in Developing new tech and working with different minded people so that I can explore more.
 - 🌱 I’m currently learning Data Science,Web development,XR development and 3D modelling.  
 - 💞️ I’m looking to collaborate on Web development and XR development.
-- 📫 How to reach me :- Gmail:-kodalivisu0028@gmail.com
+- 📫 How to reach me: Gmail:- kodalivisu0028@gmail.com
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I am not into boys.
 
