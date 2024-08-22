@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on Web development and XR development.
 - 📫 How to reach me: Gmail:- kodalivisu0028@gmail.com
 - 😄 Pronouns: he/his
-- ⚡ Fun fact: I am not into boys.
 
 <!---
 viswa0028/viswa0028 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
