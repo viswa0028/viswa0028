@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @viswa0028
 - 👀 I’m interested in Developing new tech and working with different minded people so that I can explore more.
 - 🌱 I’m currently learning Data Science,Web development,XR development and 3D modelling.  
-- 💞️ I’m looking to collaborate on Web development and XR development.
+- 💞️ I’m looking to collaborate on Web development and VR development.
 - 📫 How to reach me: Gmail:- kodalivisu0028@gmail.com
 - 😄 Pronouns: he/his
 
